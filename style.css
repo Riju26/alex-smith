@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    background-color: rgb(39, 37, 37);
+}
+
+.heading{
+    display: flex;
+}
+.photo{
+    height: 400px;
+    width: 25%;
+    margin-top: 215px;
+    margin-left: 105px;
+    border-radius: 5px;
+}
+.first_titel{
+    color: #888;
+    /* text-align: center; */
+    margin-top: 80px;
+    margin-left: 248px;
+    
+}
+.titel{
+    font-weight:700;
+    margin-left: 153px;
+    margin-top: 12px;
+     font-size: 53px;
+     color: white;
+     /* border-bottom: 5px solid #ff651c; */
+     
+     
+
+}
+.me{
+    color: #ff651c;
+    
+}
+.titel ::after{
+    content: '';
+    border-bottom: 4px solid #ff651c;
+    width: 8rem;
+    display: block;
+    left: 0;
+    right: 0;
+    position: relative;
+    margin: 0 auto;
+
+}
+.who{
+    margin-left: 40px;
+    margin-top: 57px;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+#am{
+    color: #ff651c;
+    
+}
+.p2{
+    color: white;
+    margin-top: 13px;
+    margin-left: 38px;
+    font-size: 30px;
+    font-weight: 700;
+}
+.ux{
+    color:#ff651c
+}
+.web{
+    color: #ff651c;
+}
+.p3{
+    color: #888;
+    font-size: 18px;
+    margin-left: 38px;
+    margin-top: 10px;
+    
+}
+.personal_info{
+    color: #ff651c;
+    font-size: 30px;
+    margin-left: 38px;
+    margin-top: 20px;
+    font-weight: 700;
+
+}
+.personal{
+    color: white;
+}
+.information{
+    display: flex;
+    color: white;
+    margin-top: 10px;
+}
+.data_1{
+    margin-left: 38px;
+}
+.data_2{
+    margin-left: 130px;
+}
+.name{
+    color: #888;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.item{
+    margin-top: 17px;
+}
+.same{
+    color: #ff651c;
+}
+.btn{
+    background-color:#ff651c;
+    padding: 10px 20px;
+    font-size: 15px;
+    margin-top: 22px;
+    border-radius: 5px;
+    border: none;
+}
+.chek_out{
+    color: #888;
+    text-align: center;
+    margin-top: 60px;
+    font-size: 18px;
+}
+.my_resume{
+    color: #ff651c;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;
+}
+.My{
+    color: white;
+}
+.my_resume ::after{
+     content: '';
+     border-bottom: 4px solid #ff651c;
+     width: 8rem;
+     padding-bottom: 10px;
+     display: block;
+
+}
